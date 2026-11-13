@@ -1,0 +1,1 @@
+Inert fixture template. n8n skips this file on import with an info finding.
